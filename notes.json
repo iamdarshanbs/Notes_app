@@ -1,0 +1,162 @@
+[
+  {
+    "id": "4a6ed0fe-edbe-4235-bbc2-fc6237dc7626",
+    "title": "heyy",
+    "content": "hello",
+    "tags": [
+      "work"
+    ],
+    "color": "#ff4d6d",
+    "pinned": true,
+    "created": "2026-04-21 16:13",
+    "updated": "2026-04-21 16:13"
+  },
+  {
+    "id": "02136f8e-5a22-4374-9b20-5d96735ed27b",
+    "title": "testing",
+    "content": "msg under test pragraph",
+    "tags": [
+      "test"
+    ],
+    "color": "#f472b6",
+    "pinned": true,
+    "created": "2026-04-21 18:41",
+    "updated": "2026-04-22 02:47",
+    "auto_tags": [
+      "msg",
+      "under",
+      "test"
+    ]
+  },
+  {
+    "id": "e64fb219-bec3-428c-929d-ccd4b4851136",
+    "title": "hi",
+    "content": "hello",
+    "tags": [
+      "no"
+    ],
+    "auto_tags": [
+      "hello"
+    ],
+    "color": "#7c6aff",
+    "pinned": false,
+    "created": "2026-04-21 19:38",
+    "updated": "2026-04-21 22:01",
+    "deleted": true
+  },
+  {
+    "id": "5ca37fe0-cbb9-4df2-ba00-029461457a4c",
+    "title": "hi",
+    "content": "hello",
+    "tags": [
+      "no"
+    ],
+    "auto_tags": [
+      "hello"
+    ],
+    "color": "#7c6aff",
+    "pinned": false,
+    "created": "2026-04-21 19:38",
+    "updated": "2026-04-21 19:38"
+  },
+  {
+    "id": "cdce2eb6-f312-49fc-a8ee-1dac65285239",
+    "title": "hi",
+    "content": "hello",
+    "tags": [
+      "no"
+    ],
+    "auto_tags": [
+      "hello"
+    ],
+    "color": "#7c6aff",
+    "pinned": false,
+    "created": "2026-04-21 19:38",
+    "updated": "2026-04-21 22:06",
+    "deleted": false
+  },
+  {
+    "id": "536867ef-75b9-403c-9430-37da5b29f11e",
+    "title": "hi",
+    "content": "hello",
+    "tags": [
+      "no"
+    ],
+    "auto_tags": [
+      "hello"
+    ],
+    "color": "#7c6aff",
+    "pinned": false,
+    "created": "2026-04-21 19:38",
+    "updated": "2026-04-21 22:00",
+    "deleted": false
+  },
+  {
+    "id": "bcb93295-c3c9-42e8-a3dd-36e8086d8cf8",
+    "title": "shopping",
+    "content": "well i have purchased in chickpet with heavy rush and it was challenging",
+    "tags": [
+      "outing"
+    ],
+    "auto_tags": [
+      "well",
+      "purchased",
+      "chickpet"
+    ],
+    "color": "#3db8ff",
+    "pinned": true,
+    "created": "2026-04-22 00:20",
+    "updated": "2026-04-22 00:21",
+    "deleted": false
+  },
+  {
+    "id": "53d85e1f-904a-4922-883c-61e28f1f1075",
+    "title": "voice notes",
+    "content": "hello how are you Dinesh",
+    "tags": [
+      "voice"
+    ],
+    "auto_tags": [
+      "hello",
+      "how",
+      "dinesh"
+    ],
+    "color": "#7c6aff",
+    "pinned": true,
+    "created": "2026-04-22 10:03",
+    "updated": "2026-04-22 10:04"
+  },
+  {
+    "id": "09b5fc44-3224-4493-ac4e-72d05af59196",
+    "title": "voice note 2",
+    "content": "hello this is voice note",
+    "tags": [
+      "voice"
+    ],
+    "auto_tags": [
+      "hello",
+      "voice",
+      "note"
+    ],
+    "color": "#f472b6",
+    "pinned": false,
+    "created": "2026-04-22 10:11",
+    "updated": "2026-04-22 10:11",
+    "deleted": false
+  },
+  {
+    "id": "492a3cfb-30f1-4b05-9b53-e5df6373ddee",
+    "title": "VOICE3",
+    "content": "hello can you hear me hello hello hello",
+    "tags": [],
+    "auto_tags": [
+      "hello",
+      "hear"
+    ],
+    "color": "#7c6aff",
+    "pinned": true,
+    "created": "2026-04-22 11:41",
+    "updated": "2026-04-22 11:42",
+    "deleted": false
+  }
+]
